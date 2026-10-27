@@ -1,0 +1,1 @@
+Airflow (déclenche  ) → API → Kafka (topic random_names) → Spark (lit et transforme) → Cassandra (stocke)
